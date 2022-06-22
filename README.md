@@ -1,1 +1,1 @@
-# Vamstar-BMI
+# BMI
